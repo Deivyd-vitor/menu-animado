@@ -23,4 +23,4 @@ Clone o repositório e abra o `index.html` no navegador:
 
 ```bash
 git clone https://github.com/Deivyd-vitor/menu-animado
-cd Projeto-de-Menu_Lateral
+cd Projeto-de-Menu-Lateral
