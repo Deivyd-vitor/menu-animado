@@ -22,5 +22,5 @@ Um projeto simples e funcional de menu lateral responsivo, utilizando HTML, CSS 
 Clone o repositório e abra o `index.html` no navegador:
 
 ```bash
-git clone https://github.com/Deivyd-vitor/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/Deivyd-vitor/menu-animado
+cd Projeto-de-Menu_Lateral
